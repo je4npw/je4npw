@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on <b><a href="https://gerenciatech.com.br">Gerenciatech</a></b>
+- 🌱 I’m currently learning PHP, Doctrine, POO, MVC SAAS
 <!--
 **je4npw/je4npw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
