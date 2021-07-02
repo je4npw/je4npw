@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/je4npw?style=social)
 [![LinkTree](https://img.shields.io/badge/Je4nPw_LinkTree-1793D1?style=flat&logo=arch-linux&logoColor=white&url=https%3A%2F%2Flinktr.ee%2Fje4npw)](https://linktr.ee/je4npw)
 
-# Hi Devs! <img src="https://cdn.discordapp.com/emojis/786736339067338812.png?v=1" width="22">
+# Hi Devs!
 <div style:"display: flex; flex-direction: row">
   <img src="https://img.shields.io/badge/HTML5-lightgrey" />  
   <img src="https://img.shields.io/badge/PHP-blue" />  
