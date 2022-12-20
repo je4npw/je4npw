@@ -1,3 +1,9 @@
+Você olha meu perfil e nesse momento se pergunta:
+"Porque ele diz que trabalha com tecnologia e tem tão poucos commits?"
+
+Digo a você em toda sinceridade: faço coisas incríveis, 
+só que elas aparecem no subsolo dos commits de outros desenvolvedores.
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=je4npw.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/je4npw?style=social)
 [![LinkTree](https://img.shields.io/badge/Je4nPw_LinkTree-1793D1?style=flat&logo=arch-linux&logoColor=white&url=https%3A%2F%2Flinktr.ee%2Fje4npw)](https://linktr.ee/je4npw)
