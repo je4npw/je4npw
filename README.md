@@ -12,10 +12,10 @@ só que elas aparecem no subsolo dos commits de outros desenvolvedores.
 <div style:"display: flex; flex-direction: row">
   <img src="https://img.shields.io/badge/HTML5-lightgrey" />  
   <img src="https://img.shields.io/badge/PHP-blue" />  
-  <img src="https://img.shields.io/badge/OOP-brighteen" />  
-  <img src="https://img.shields.io/badge/Doctrine-green" />  
-  <img src="https://img.shields.io/badge/MVC-red" />  
-  <img src="https://img.shields.io/badge/ReactJs-yellow" />
+  <img src="https://img.shields.io/badge/Shell-brighteen" />  
+  <img src="https://img.shields.io/badge/ReactJS-green" />  
+  <img src="https://img.shields.io/badge/Typescript-red" />  
+  <img src="https://img.shields.io/badge/DevOps-yellow" />
 </div>
 <div style:"display: flex; flex-direction: row">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=je4npw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
