@@ -1,8 +1,10 @@
-Você olha meu perfil e nesse momento se pergunta:
-"Porque ele diz que trabalha com tecnologia e tem tão poucos commits?"
+Sou um desenvolvedor de sistemas apaixonado por tecnologia e natureza.
 
-Digo a você em toda sinceridade: faço coisas incríveis, 
-só que elas aparecem no subsolo dos commits de outros desenvolvedores.
+Sempre busco novos aprendizados e adoro enfrentar desafios complexos. 
+
+Minha curiosidade é uma característica fundamental na minha profissão, pois me permite estar sempre atualizado e encontrar soluções criativas. 
+
+Além disso, gosto de grandes desafios e sou determinado em alcançar meus objetivos. 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=je4npw.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/je4npw?style=social)
