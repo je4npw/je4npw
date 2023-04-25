@@ -2,7 +2,7 @@ Sou um desenvolvedor de sistemas apaixonado por tecnologia e natureza.
 
 Sempre busco novos aprendizados e adoro enfrentar desafios complexos. 
 
-Minha curiosidade é uma característica fundamental na minha profissão, pois me permite estar sempre atualizado e encontrar soluções criativas. 
+Minha curiosidade é uma característica fundamental na minha profissão, pois me impulsiona a estar sempre atualizado e encontrar soluções criativas. 
 
 Além disso, gosto de grandes desafios e sou determinado em alcançar meus objetivos. 
 
