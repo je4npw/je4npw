@@ -5,8 +5,7 @@ Sempre busco novos aprendizados e adoro enfrentar desafios complexos.
 Minha curiosidade é uma característica fundamental na minha profissão, pois me impulsiona a estar sempre atualizado e encontrar soluções criativas. 
 
 Além disso, gosto de grandes desafios e sou determinado em alcançar meus objetivos. 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=je4npw.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=je4npw.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/je4npw?style=social)
 [![LinkTree](https://img.shields.io/badge/Je4nPw_LinkTree-1793D1?style=flat&logo=arch-linux&logoColor=white&url=https%3A%2F%2Flinktr.ee%2Fje4npw)](https://linktr.ee/je4npw)
 
