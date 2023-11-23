@@ -13,7 +13,7 @@ Além disso, gosto de grandes desafios e sou determinado em alcançar meus objet
 <div style:"display: flex; flex-direction: row">
   <img src="https://img.shields.io/badge/HTML5-lightgrey" />  
   <img src="https://img.shields.io/badge/PHP-blue" />  
-  <img src="https://img.shields.io/badge/!#-brighteen" />  
+  <img src="https://img.shields.io/badge/SH-brighteen" />  
   <img src="https://img.shields.io/badge/ReactJS-green" />  
   <img src="https://img.shields.io/badge/Typescript-red" />  
   <img src="https://img.shields.io/badge/DevOps-yellow" />
