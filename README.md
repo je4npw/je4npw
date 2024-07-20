@@ -1,8 +1,8 @@
-Sou um desenvolvedor de sistemas apaixonado por tecnologia e natureza, mas não trabalho apenas com isso, pois atuo como missionário e monitor voluntário em uma comunidade terapêutica.
+Sou acadêmico em ciências da computação apaixonado por tecnologia e natureza.
+
+Atuo como voluntário na causa da dependência química, usando meus conhecimentos para desenvolver soluções e tecnologias que auxiliem profissionais e voluntários de prevenção e tratamento da dependência química.
 
 Encaro minha profissão como o meio que Deus me deu para me manter na missão. Sempre busco novos aprendizados e consigo enfrentar desafios complexos. 
-
-Minha curiosidade é uma característica fundamental em mim, pois me impulsiona a estar sempre atualizado e encontrar soluções criativas. 
 
 Além disso, gosto de contribuir com projetos e sou determinado em alcançar objetivos.
 
