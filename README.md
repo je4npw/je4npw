@@ -1,7 +1,6 @@
 # Hi Devs! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 Sou acadêmico em ciências da computação apaixonado por tecnologia e natureza.
-Atuo como voluntário na causa da dependência química, usando meus conhecimentos para desenvolver soluções e tecnologias que auxiliem profissionais e voluntários de prevenção e tratamento da dependência química.
 Encaro minha profissão como o meio que Deus me deu para me manter na missão. Sempre busco novos aprendizados e consigo enfrentar desafios complexos.
 Além disso, gosto de contribuir com projetos e sou determinado em alcançar objetivos.
 <br>
