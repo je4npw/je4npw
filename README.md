@@ -50,7 +50,7 @@ Além disso, gosto de contribuir com projetos e sou determinado em alcançar obj
 
 
 <!-- card -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=je4npw&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=je4npw)](https://git.io/streak-stats)
 
 <!-- visitor counter -->
 <br>
