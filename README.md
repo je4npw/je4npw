@@ -1,6 +1,6 @@
 # Hi Devs! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Sou acadêmico em ciências da computação apaixonado por tecnologia e natureza.
+Sou acadêmico em ciência da computação apaixonado por tecnologia e natureza.
 Encaro minha profissão como o meio que Deus me deu para me manter na missão. Sempre busco novos aprendizados e consigo enfrentar desafios complexos.
 Além disso, gosto de contribuir com projetos e sou determinado em alcançar objetivos.
 <br>
@@ -22,13 +22,14 @@ Além disso, gosto de contribuir com projetos e sou determinado em alcançar obj
 ## 💼 Tech Stacks
 
 ### Frontend:
+![PHP](https://img.shields.io/badge/PHP-764ABC.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-764ABC?style=for-the-badge&labelColor=FF2D20&logo=laravel&logoColor=ffffff)
+
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PHO](https://img.shields.io/badge/PHP-764ABC.svg?style=for-the-badge&logo=PHP&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 
@@ -44,13 +45,11 @@ Além disso, gosto de contribuir com projetos e sou determinado em alcançar obj
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-00C7B7?style=for-the-badge&logo=github&logoColor=white)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 
 
 <!-- card -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=je4npw&theme=darcula&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=je4npw&theme=one-dark-pro&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <!-- visitor counter -->
 <br>
