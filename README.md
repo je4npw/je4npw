@@ -49,7 +49,7 @@ Além disso, gosto de contribuir com projetos e sou determinado em alcançar obj
 
 
 <!-- card -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=je4npw&theme=one-dark-pro&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)]
+![GitHub Streak](https://streak-stats.demolab.com?user=je4npw&theme=one-dark-pro&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)
 
 <!-- visitor counter -->
 <br>
