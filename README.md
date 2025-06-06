@@ -12,7 +12,7 @@ Além disso, gosto de contribuir com projetos e sou determinado em alcançar obj
 <br>
 ## Algumas coisas acontecendo agora 👀
 
-- 🔭 <b>Atualmente trabalhando com:</b> PHP, Next.js, REST API's, MongoDB, Mongoose, Typesctipt.
+- 🔭 <b>Atualmente trabalhando com:</b> PHP, Next.js, REST API's, MongoDB, Mongoose, Typescript.
 - 🌱 <b>Ficando melhor em:</b>  Javascript, Estrutura de dados e Algoritmos.
 - 🤔 <b>Explorando:</b> Laravel
 - ⚗️ <b>Experimento:</b> Importação de diversos tipos de arquivos
