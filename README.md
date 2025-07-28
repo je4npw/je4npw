@@ -10,20 +10,12 @@ Além disso, gosto de contribuir com projetos e sou determinado em alcançar obj
 [![Mail Badge](https://img.shields.io/badge/-je4n.pw-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:je4n.pw@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-je4n.pw-ffffff?style=flat&labelColor=white&logo=Instagram&logoColor=purple)](https://instagram.com/je4npw)
 <br>
-## Algumas coisas acontecendo agora 👀
-
-- 🔭 <b>Atualmente trabalhando com:</b> PHP, Next.js, REST API's, MongoDB, Mongoose, Typescript.
-- 🌱 <b>Ficando melhor em:</b>  Javascript, Estrutura de dados e Algoritmos.
-- 🤔 <b>Explorando:</b> Laravel
-- ⚗️ <b>Experimento:</b> Importação de diversos tipos de arquivos
-- 💬 <b>Posso te ajudar com:</b> DevOps.
-- 📫 <b>Me mande um email:</b> <a href="mailto:je4n.pw@gmail.com" target="_blank">je4n.pw@gmail.com</a>
 
 ## 💼 Tech Stacks
 
 ### Frontend:
 ![PHP](https://img.shields.io/badge/PHP-764ABC.svg?style=for-the-badge&logo=PHP&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-764ABC?style=for-the-badge&labelColor=FF2D20&logo=laravel&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-764ABC?style=for-the-badge&labelColor=FF2D20&logo=laravel&logoColor=FF2D20)
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
