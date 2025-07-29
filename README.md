@@ -69,9 +69,5 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=je4npw&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="je4npw's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=je4npw&theme=vue-dark&hide_border=false" alt="je4npw's GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=je4npw&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="je4npw's Top Languages"/>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=je4npw&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </p>
