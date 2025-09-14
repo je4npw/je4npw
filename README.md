@@ -6,24 +6,7 @@
     Encaro minha profissão como o meio que Deus me deu para viver em missão. <br>
     Estou sempre em busca de aprendizado e pronto para encarar desafios complexos. <br>
     Também gosto de contribuir com projetos abertos e sou determinado a alcançar meus objetivos. <br>
-    <strong>Obs: Sou chato, mas eu resolvo!</strong>
-  </p>
-
-  <h3 align="center">📫 Vamos nos conectar!</h3>
-
-  <p align="center">
-    <a href="https://twitter.com/je4npw">
-      <img src="https://img.shields.io/badge/-@je4npw-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/je4npw/">
-      <img src="https://img.shields.io/badge/-je4npw-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-    </a>
-    <a href="mailto:je4n.pw@gmail.com">
-      <img src="https://img.shields.io/badge/-je4n.pw-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://instagram.com/je4npw">
-      <img src="https://img.shields.io/badge/-je4n.pw-ffffff?style=flat&labelColor=white&logo=Instagram&logoColor=purple" alt="Instagram Badge"/>
-    </a>
+    <strong>Obs: Sou chato, mas resolvo!</strong>
   </p>
 
 ---
