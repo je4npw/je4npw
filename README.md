@@ -53,6 +53,4 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=JE4NPW&theme=vue-dark&hide_border=false" alt="Je4npw data">
-  <br/>  
-  <img src="https://github-contributor-stats.vercel.app/api?username=JE4NPW&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="Je4npw">
 </p>
