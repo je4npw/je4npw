@@ -28,24 +28,32 @@
 
 <br/>
 
-<details>
-<summary><strong>More about me</strong></summary>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JE4NPW&theme=vue-dark&hide_border=false" alt="Je4npw data">
+</p>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+<details>
+<summary><strong>Sobre mim</strong></summary>
 
-**Currently at** Stellar Labs — San Francisco, CA
+<br/>
+
+Gosto de programar desde os 9 anos de idade quando descobri os .bat do DOS.
+
+Crio ferramentas que facilitam minha vida e dos meus clientes.
+**Atualmente construindo o** GITER RT - Sistema para Gestão Inteligente de Terapias Residenciais
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:je4n.pw@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/je4npw/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>

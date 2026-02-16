@@ -15,7 +15,7 @@ username: je4npw
 # Profile information displayed in the galaxy header
 profile:
   name: "Jean Wick"
-  tagline: "Full Stack PHP Developer & Open Source Universe Explorer"
+  tagline: "Full Stack PHP Dev & Explorador do universo Open Source "
   company: "GITER Informática"
   location: "Petrolândia, SC"
   bio: |
@@ -59,12 +59,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "giter-info/GiterRT"
-    arm: 0
-    description: "Gestão Inteligente de TErapias Residenciais."
   - repo: "giter-info/salomao-site"
-    arm: 1
+    arm: 0
     description: "Site da Rede Salomão."
+  - repo: "giter-info/GiterRT"
+    arm: 1
+    description: "Gestão Inteligente de TErapias Residenciais."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
@@ -92,4 +92,5 @@ stats:
 languages:
   exclude:                     # Languages to hide from the telemetry chart
     - "HTML"
+    - "Java"
 max_display: 8               # Maximum number of languages to show
