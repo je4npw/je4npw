@@ -57,3 +57,5 @@ Crio ferramentas que facilitam minha vida e dos meus clientes.
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
+
+ 
