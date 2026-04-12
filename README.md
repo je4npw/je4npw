@@ -31,7 +31,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JE4NPW&theme=vue-dark&hide_border=false" alt="Je4npw data">
+  <img src='https://streak-stats.demolab.com?user=je4npw&theme=default&hide_border=true' alt='githubstats' />
 </p>
 
 <br/>
